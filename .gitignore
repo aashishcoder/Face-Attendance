@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+dataset/
+encodings/
+.venv/
+__init__.py
+
